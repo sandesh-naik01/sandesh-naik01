@@ -1,73 +1,99 @@
 <h1 align="center">Hi 👋, I'm Sandesh Naik</h1>
-<h3 align="center">BCA Graduate | MCA Aspirant | MERN Stack Developer | Software Developer</h3>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack • Java • Always Learning 🚀
+</h3>
 
 <p align="center">
-  Passionate about building web applications and continuously learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sandesh-naik01&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/sandesh-naik01?label=Followers&style=flat"/>
+<img src="https://img.shields.io/github/stars/sandesh-naik01?affiliations=OWNER&style=flat"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 👨‍💻 About Me
 
-<p align="left">
-<a href="https://github.com/sandesh-naik01" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+🎓 BCA Graduate
+
+🎯 MCA Aspirant
+
+💻 Passionate about Full Stack Development
+
+🚀 Building Real-World MERN Applications
+
+🌱 Currently Learning
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- Data Structures & Algorithms
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sandesh-naik01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/sandesh._.naik" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/sandesh._.naik">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="mailto:sandeshnnaik0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,firebase&perline=8"/>
 
 </p>
 
 ---
 
-# 🚀 Currently Learning
-
-- MERN Stack Development
-- Data Structures & Algorithms
-- REST APIs
-- Git & GitHub
-- Problem Solving
-
----
-
-# 📂 Featured Project
+# 🚀 Featured Project
 
 ## 🎓 Student Management System
 
-**Tech Stack**
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
+A Full Stack MERN Application for managing students, teachers, attendance and internal marks.
 
-### Features
-- Admin Dashboard
-- Teacher Dashboard
-- Student Dashboard
-- Attendance Management
-- Internal Marks Management
-- Authentication
-- Responsive UI
+### ✨ Features
+
+✔ Secure JWT Authentication
+
+✔ Admin Dashboard
+
+✔ Teacher Dashboard
+
+✔ Student Dashboard
+
+✔ Attendance Management
+
+✔ Internal Marks Management
+
+✔ Responsive Design
+
+✔ MongoDB Database
 
 ---
 
@@ -75,25 +101,88 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandesh-naik01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandesh-naik01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-naik01&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-naik01&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-naik01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Goals
+# 🔥 GitHub Streak
 
-- ✅ Become a Full Stack Developer
-- ✅ Master MERN Stack
-- ✅ Get placed in a top software company
-- ✅ Contribute to Open Source
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sandesh-naik01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandesh-naik01&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sandesh-naik01&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Full Stack Developer
+
+✅ Master MERN Stack
+
+✅ Master Java
+
+✅ Improve Data Structures & Algorithms
+
+✅ Build Open Source Projects
+
+✅ Get Placed in a Top Software Company
+
+---
+
+# 💡 Quote
+
+> "Consistency is the key to becoming better every day."
+
+---
+
+## 📌 Currently Working On
+
+🚀 Student Management System (MERN)
+
+📚 Learning Data Structures & Algorithms
+
+💻 Improving React & Backend Development
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandesh-naik01&theme=tokyonight"/>
+
 </p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</h3>
