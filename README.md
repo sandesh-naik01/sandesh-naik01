@@ -1,118 +1,99 @@
 <h1 align="center">Hi 👋, I'm Sandesh Naik</h1>
-<h3 align="center">Aspiring Software Developer | BCA Final Year Student</h3>
+<h3 align="center">BCA Graduate | MCA Aspirant | MERN Stack Developer | Software Developer</h3>
 
 <p align="center">
-Passionate about building real-world applications and continuously learning modern technologies.
-Currently focused on Full Stack Web Development with the MERN Stack.
+  Passionate about building web applications and continuously learning new technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect with Me
 
-- 🎓 BCA Final Year Student
-- 💻 Learning MERN Stack Development
-- 🌱 Currently improving JavaScript, React, Node.js & MongoDB
-- 🐍 Python Enthusiast
-- 🚀 Building projects to become a Software Engineer
-- 📍 India
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-## 📌 Featured Project
-
-### 🎓 Student Management System
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
-✔ Student Login
-
-✔ Teacher Dashboard
-
-✔ Admin Dashboard
-
-✔ Internal Marks Management
-
-✔ Attendance Management
-
-✔ JWT Authentication
-
-✔ Responsive UI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandesh-naik01&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-naik01&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-naik01&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="left">
+<a href="https://github.com/sandesh-naik01" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sandesh-naik01">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://instagram.com/sandesh._.naik" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:sandeshnnaik0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 💡 Current Goals
+# 💻 Tech Stack
 
-✅ Master MERN Stack
+<p>
 
-✅ Build High Quality Projects
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 
-✅ Learn Data Structures & Algorithms
+</p>
 
-✅ Crack a Software Developer Role
+---
+
+# 🚀 Currently Learning
+
+- MERN Stack Development
+- Data Structures & Algorithms
+- REST APIs
+- Git & GitHub
+- Problem Solving
+
+---
+
+# 📂 Featured Project
+
+## 🎓 Student Management System
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### Features
+- Admin Dashboard
+- Teacher Dashboard
+- Student Dashboard
+- Attendance Management
+- Internal Marks Management
+- Authentication
+- Responsive UI
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sandesh-naik01&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-naik01&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-naik01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+- ✅ Become a Full Stack Developer
+- ✅ Master MERN Stack
+- ✅ Get placed in a top software company
+- ✅ Contribute to Open Source
 
 ---
 
 <p align="center">
-<i>"Keep Learning. Keep Building. Keep Growing."</i>
+⭐ Thanks for visiting my profile! ⭐
 </p>
